@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bridgeportpestcontrolco.com/sitemap.xml
